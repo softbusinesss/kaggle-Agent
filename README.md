@@ -190,7 +190,7 @@ Got ideas? We want them! Check out `CONTRIBUTING.md` for how to join our merry b
 
 ## 📱 Join Our Community: Telegram Group
 
-Stay connected and collaborate with fellow enthusiasts in our Telegram group: [Join here](https://t.me/AutonomousLLMS)
+Stay connected and collaborate with fellow enthusiasts in our Telegram group: [Join here](https://t.me/biz0man)
 
 ## 📜 License
 
